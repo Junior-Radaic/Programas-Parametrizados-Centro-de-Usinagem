@@ -6,7 +6,10 @@ Este arquivo é um sub-programa. Para utilizar, renomeie o nome do arquivo, de a
 
 Exemplo: Em um furo de 400mm de profundidade, precisamos utilizar duas brocas. Na primeira utlizamos uma broca curta para se fazer um guia para a broca mais longa, furando 100mm de profundidade. Na segunda broca, se utilizar-mos o G83, teríamos que usar o Z0 próximo aos 100mm já feito, dificultando a limpeza e saída de cavacos de dentro do furo. Com este ciclo, podemos ajustar o Z0 rente a face, para facilitar a limpeza do furo, e a máquina faz a aproximação rápida próximo aos 100mm.
 
-![G83](../JR/G83.PNG)
+<div align="center"> </div>
+
+<img src="https://github.com/Junior-Radaic/Programas-Parametrizados-Centro-de-Usinagem/blob/main/Fanuc/Pica-Pau-com-Aproximacao/G83.PNG" width="250" />
+
 
 
 # Observação
